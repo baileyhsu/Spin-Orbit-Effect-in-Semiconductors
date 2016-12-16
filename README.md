@@ -17,6 +17,9 @@ The mathematica files are based on the analytical wave function based on the pro
 numerical evolution of wave function where no analytical solution is available. Again, the numerical evolution relies on the
 use of Trotter's formula within short time approximations.
 
+It should be noted in matlab, I have also calculated the case where a simple harmonic oscillator potential is present on top of the spin-orbit interactions.
+
+
 ## Publication
 - ["Spin dynamics for wave packets in Rashba systems"](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.041404) - 
 *Bailey C. Hsu and Jean-François S. Van Huele*
